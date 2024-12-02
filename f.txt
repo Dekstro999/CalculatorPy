@@ -1,0 +1,3 @@
+2024-12-01 01:06:03 - Movimientos: 64, Tiempo: 1:10
+2024-12-01 01:09:34 - Movimientos: 226, Tiempo: 2:32
+2024-12-01 01:20:15 - Movimientos: 346, Tiempo: 3:57
