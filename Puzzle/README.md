@@ -48,3 +48,8 @@ El desarrollo del juego de puzzle deslizante ha permitido:
 - **Aplicar Conceptos de Algoritmos y Estructuras de Datos**: En la lógica de mezcla y ordenación de las fichas del puzzle.
 - **Desarrollar Habilidades de Depuración y Pruebas**: Identificando y solucionando errores en el código y asegurando que la aplicación funcione correctamente.
 
+## **Licencia**
+
+**[GNU Affero General Public License v3.0](https://www.gnu.org/licenses/agpl-3.0.html)**
+
+© 2024 Dekstro999. Consulta el archivo [LICENSE](LICENSE) para más información.  
